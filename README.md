@@ -1,3 +1,6 @@
+https://github.com/landieboy/Software
+
+
 ① https://gitee.com/qq117776417/blue-butterfly-media-studio/releases
 
 ② https://atomgit.com/qq117776417
